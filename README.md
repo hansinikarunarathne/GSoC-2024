@@ -1,7 +1,8 @@
-<div style="display: flex; align-items: center;">
-  <img src="./kubeflow-logo.png" alt="kubeflow-logo" height="130" />
-  <img src="./gsoc-logo.png" alt="gsoc-logo"   height="110" />
+<div>
+  <img src="https://camo.githubusercontent.com/0986bfbf697ff31d4614d39937f7238880757105972b61cb21d3103cbd0f7473/68747470733a2f2f7777772e6b756265666c6f772e6f72672f696d616765732f6c6f676f2e737667" alt="kubeflow" height="90" style="margin-right: 20px;">
+  <img src="https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal-800.png" alt="GSOC" height="95" width="800">
 </div>
+
 
 # Google Summer of Code 2024 with Kubeflow 
 
@@ -13,7 +14,7 @@ Kubeflow is an open-source platform designed to streamline the deployment, orche
 * Universtiy - University of Moratuwa, Sri Lanka
 * GitHub - [hansinikarunarathne](https://github.com/hansinikarunarathne)
 * Social Profiles
-  - [LinkedIn](www.linkedin.com/in/hansini-karunarathne)
+  - [LinkedIn](https://www.linkedin.com/in/hansini-karunarathne/)
   - [Medium](https://medium.com/@hansini.20)
 
 ## Mentors Information
@@ -65,12 +66,15 @@ Through the project it aims to provide solutions to below tasks related to [kube
 > [PR#2834 : Expose Ray and Seldon to example kustomization.yaml file](https://github.com/kubeflow/manifests/pull/2834)<br>
 > [PR#2818 : Typographical changes](https://github.com/kubeflow/manifests/pull/2818)<br>
 > [PR#2788 : Deprecate optional Knative Eventing components](https://github.com/kubeflow/manifests/pull/2788)<br>
+> [PR#2772 : Remove the old tekton version](https://github.com/kubeflow/manifests/pull/2772)<br>
+> [PR#2867 : update manifest test README](https://github.com/kubeflow/manifests/pull/2867)<br>
 
 ## Furture Work
-- Consolidate Kubeflow manifests tests
+- Consolidate Kubeflow manifests tests(WIP)
+- Kserve web application improvements(WIP)
 
 ## What I Learned During GSoC
-Participating in Google Summer of Code 2024 has been an immensely rewarding journey, enhancing my knowledge both technically and professionally.This is myfirst time contributing to an open-source project. Here are some major insights and abilities I developed:
+Participating in Google Summer of Code 2024 has been an immensely rewarding journey, enhancing my knowledge both technically and professionally.This is my first time contributing to an open-source project. Here are some major insights and abilities I developed:
 - Enhanced knowledge on Kubernete. 
 - Enhanced knowledge on area of CI/CD work.  
 - I learned the importance of maintaining clear and consistent code and learned how to collaborate effectively with other developers, learn from code reviews, and handle contributions in a large open-source project.
